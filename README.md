@@ -1,0 +1,1 @@
+# pycharm_odoo17_windows
